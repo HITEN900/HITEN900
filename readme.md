@@ -6,26 +6,8 @@
 
 [![programming gif](/giphy.gif)](https://www.youtube.com/@MRINDIANHELPER_HACKER)
 
-## My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hackesofice&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackesofice&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hackesofice&theme=radical&margin-w=15" alt="GitHub Trophies" />
-</p>
-## Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hackesofice&theme=radical" alt="GitHub Streak" />
-</p>
-
-## Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ## Connect with Me
 
